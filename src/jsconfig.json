@@ -1,0 +1,10 @@
+{
+	"compilerOptions": {
+		"target": "ES6"
+	},
+	"files": [
+		"pem.js",
+		"server.js",
+		"asn1.js"
+	]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "fidojs",
+  "version": "1.0.0",
+  "description": "FIDO 2.0 sample for Microsoft Passport / Hello",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/mattdot/fidojs"
+  },
+  "author": "Matt Dotson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattdot/fidojs/issues"
+  },
+  "homepage": "https://github.com/mattdot/fidojs",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "crypto": "0.0.3",
+    "express": "^4.13.3",
+    "oauth2orize": "^1.2.1"
+  }
+}
